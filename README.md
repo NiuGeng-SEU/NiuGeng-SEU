@@ -12,7 +12,7 @@ Rheological properties of 3D-printed concrete and excess paste layer theory.
 
 niugeng@seu.edu.cn
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=n4NIa3sAAAAJ) | [GitHub](https://github.com/NiuGeng-SEU) | [CV](https://www.niugens.com/about-gengniu/cv_gengniu.pdf))
+[Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=n4NIa3sAAAAJ) | [GitHub](https://github.com/NiuGeng-SEU) | [CV](https://www.niugens.com/about-gengniu/cv_gengniu.pdf)
 
 You can learn more about me through the following content:  
 [Twitter](https://twitter.com/gengniu9) | [Bilibili](https://space.bilibili.com/222652395)  
