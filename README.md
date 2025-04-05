@@ -1,5 +1,4 @@
 ## Hey! Nice to meet you.👋
-Welcome to my page!  
 
 I am Geng Niu, a Ph.D. student in [Civil and Environmental Engineering](https://cee.duke.edu) at [Duke University](https://duke.edu), advised by Professor [Laura E. Dalton](https://cee.duke.edu/faculty/laura-dalton).  
 Previously,I earned my M.S. and B.S. in [Materials Science and Engineering](https://smse.seu.edu.cn) at [Southeast University](https://www.seu.edu.cn), where I was advised by Professor [Yamei Zhang](https://smse.seu.edu.cn/2009/1205/c2590a83580/pagem.htm).
