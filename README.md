@@ -19,5 +19,3 @@ You can learn more about me through the following content:
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=NiuGeng-SEU&count_private=true&show_icons=true&include_all_commits=true)
